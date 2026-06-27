@@ -1,7 +1,10 @@
 # Chaya Shari size 9 grind adaptor
 
 ## Description
-This mod allows grind blocks to be mounted directly to the plate, instead of being mounted using hangers to the kingpins, resulting in a sturdier fit. Additionally, mounting grind blocks on Chaya's Shari plates can be difficult due to their 20 degree kingpin angle, while most grind blocks are designed for skates with 10 degree kingpin angles. This grind adaptor is compatible with the Brunny Hardcode and the Adrenaline Labs grind blocks. 
+This mod allows grind blocks to be mounted directly to the plate, instead of being mounted using hangers to the kingpins, resulting in a sturdier fit. Additionally, mounting grind blocks on Chaya's Shari plates can be difficult due to their 20 degree kingpin angle, while most grind blocks are designed for skates with 10 degree kingpin angles. This grind adaptor is compatible with the Brunny Hardcode and the Adrenaline Labs grind blocks.
+
+
+![Chaya Nomade with Adrenaline Lab's Gecko grind block](images/skate-complete.jpg)
 
 ## Parts
 * 4x M6x60 carriage bolts
